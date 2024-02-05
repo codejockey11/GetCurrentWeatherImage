@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetCurrentWeatherImage", "GetCurrentWeatherImage\GetCurrentWeatherImage.csproj", "{6E4C2177-CD5C-4852-83AA-9CDEBA0427DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E4C2177-CD5C-4852-83AA-9CDEBA0427DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E4C2177-CD5C-4852-83AA-9CDEBA0427DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E4C2177-CD5C-4852-83AA-9CDEBA0427DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E4C2177-CD5C-4852-83AA-9CDEBA0427DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23D2A049-F8E9-45A8-8216-E6CAF65D3319}
+	EndGlobalSection
+EndGlobal
